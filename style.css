@@ -136,7 +136,7 @@ h1, h2, .contact-details-block {
 /* === H1 (Main Name) Styling === */
 h1 {
     /* Styles the main name element. */
-    font-size: 2em;
+    font-size: 1.5em;
     /* Large font size (2 times the base font size). */
     color: #2066AC;
     /* Zurich Blue color. */
@@ -149,7 +149,7 @@ h1 {
 /* === H2 (Titles) Styling === */
 h2 {
     /* Styles the job title and location elements. */
-    font-size: 1.12em;
+    font-size: 1em;
     /* Slightly larger than base font size. */
     color: #555;
     /* Dark gray text color. */
